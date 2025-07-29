@@ -25,8 +25,7 @@ The Employee Leave Management System (ELMS) is a comprehensive web application d
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nithin-kumar8/flipkart-intern.git
-   cd elms
+   gh repo clone 630579/flipkart_project
    ```
 
 2. Create and activate a virtual environment:
